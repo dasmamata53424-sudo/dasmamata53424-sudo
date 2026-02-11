@@ -1,8 +1,4 @@
-# Hi 👋 I'm Mamta
 
-🎓 MCA Student  
-🤖 AI & ML Enthusiast  
-💻 Building Real-World Projects  
 
 ---
 <h1 align="center">Hey 👋 I'm Your Mamta</h1>
@@ -14,6 +10,10 @@
 ---
 
 ### 👨‍💻 About Me
+
+🎓 MCA Student  
+🤖 AI & ML Enthusiast  
+💻 Building Real-World Projects  
 - 🌱 Currently learning Python
 - 💻 Building small projects
 - 🎯 Goal: Become AI Developer
