@@ -42,19 +42,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dasmamata53424-sudo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dasmamata53424-sudo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dasmamata53424-sudo/dasmamata53424-sudo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dasmamata53424-sudo/dasmamata53424-sudo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dasmamata53424-sudo/dasmamata53424-sudo/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
