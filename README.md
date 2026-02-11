@@ -42,16 +42,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dasmamata53424-sudo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dasmamata53424-sudo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dasmamata53424-sudo/dasmamata53424-sudo/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
