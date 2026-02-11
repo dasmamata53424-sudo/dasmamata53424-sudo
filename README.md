@@ -5,21 +5,36 @@
 💻 Building Real-World Projects  
 
 ---
+<h1 align="center">Hey 👋 I'm Your Name</h1>
 
-## 🚀 About Me
-
-- Currently learning Artificial Intelligence and Machine Learning
-- Interested in Automation and Smart Systems
-- Exploring Python deeply
+<p align="center">
+  Python | HTML | Java Learner 🚀
+</p>
 
 ---
 
-## 🛠 Skills
+### 👨‍💻 About Me
+- 🌱 Currently learning Python
+- 💻 Building small projects
+- 🎯 Goal: Become AI Developer
 
-Python  
-Java  
-HTML     
-Git  
+---
+
+### 🛠 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,java" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
